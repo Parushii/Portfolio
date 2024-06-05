@@ -43,7 +43,7 @@ const About = () => {
     >
       I am a skilled web developer in html, css, javascript
       , react and three.js. I am a quick learner and a great
-      team support. I like learning new things and try to give my 100%
+      team member. I like learning new things and try to give my 100%
       in whatever I do.
     </motion.p>
 
