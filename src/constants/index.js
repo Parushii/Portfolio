@@ -28,11 +28,11 @@ import {
   export const navLinks = [
     {
       id: "about",
-      title: "About",
+      title: "Skills",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "project",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -204,7 +204,28 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Event Booking Website",
+      description:
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      tags: [
+        {
+          name: "html",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "js",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Event Management website",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -213,11 +234,11 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "django",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "sqlite",
           color: "pink-text-gradient",
         },
       ],
@@ -225,45 +246,66 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Marks Portal",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "nodejs",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "mongodb",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: carrent,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Lingoverse",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "django",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "sqlite",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: carrent,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "NoteHub",
+      description:
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "nodejs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
       source_code_link: "https://github.com/",
     },
   ];
