@@ -206,7 +206,7 @@ import {
     {
       name: "Event Booking Website",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed the frontend of an event booking website. Implemented dynamic functionalities including event filtering, sorting options, and a seamless seat booking system for enhanced user convenience. Introduced accurate price calculation of tickets, for optimizing user experience.",
       tags: [
         {
           name: "html",
@@ -222,12 +222,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: " https://my-event-booking.netlify.app/",
     },
     {
       name: "Event Management website",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed a centralized event management website as part of the Agnethon (Hackathon) project, achieving a top 25 ranking. Key features included event creation, registration, faculty approval workflows, and real-time venue availability.",
       tags: [
         {
           name: "react",
@@ -243,12 +243,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/yolo22nd/Agni",
     },
     {
       name: "Marks Portal",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "ScoreSync is a comprehensive web-based application designed to streamline academic data management, facilitate communication between teachers and students, and enhance the overall learning experience. The platform offers separate login interfaces for students and teachers, each tailored to their specific needs and requirements.",
       tags: [
         {
           name: "react",
@@ -264,12 +264,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Parushii",
     },
     {
       name: "Lingoverse",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "LingoVerse is an innovative project designed to enhance the language-learning experience for travelers. Users can take interactive quizzes to test their language skills, connect with locals and other travelers and join communities through Video calls and chat rooms, and translate languages.",
       tags: [
         {
           name: "react",
@@ -285,12 +285,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Parushii",
     },
     {
       name: "NoteHub",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "NoteHub: Your personal note management platform , built on the MERN stack where you can effortlessly add, edit, and delete notes to keep your thoughts organized and easily accessible.",
       tags: [
         {
           name: "react",
@@ -306,7 +306,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Parushii",
     },
   ];
   
